@@ -2,6 +2,8 @@ alert_stream
 ============
 
 Mock Kafka alert stream system Kafka using sims data.
+=======
+[![Docker Automated buil](https://img.shields.io/docker/automated/mtpatter/alert_stream.svg)](https://hub.docker.com/r/mtpatter/alert_stream/)
 
 Requires Docker and Docker Compose for the usage instructions below.
 
